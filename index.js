@@ -17,3 +17,5 @@ let exclamationAddedFacts = [];
   }
   return exclamationAddedFacts;
 }
+
+function iLoveTheBeatles (n) {}
