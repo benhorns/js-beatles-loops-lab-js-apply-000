@@ -14,6 +14,6 @@ let exclamationAddedFacts
   while(n<0) {
   exclamationAddedFacts.push(`${facts[i]}!!!`)
   n--;
-  }  
+  }
   return exclamationAddedFacts;
 }
