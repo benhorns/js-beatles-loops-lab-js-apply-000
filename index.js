@@ -9,11 +9,11 @@ return band;
 }
 
 function johnLennonFacts (facts) {
-let n = 0
+let n = 0;
 let exclamationAddedFacts = [];
-  while(n>0) {
+  while(n<facts.length) {
   exclamationAddedFacts.push(`${facts[n]}!!!`)
-  n--;
+  n++;
   }
   return exclamationAddedFacts;
 }
