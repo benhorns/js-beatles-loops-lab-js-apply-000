@@ -12,7 +12,7 @@ function johnLennonFacts (facts) {
 let n = facts.length
 let exclamationAddedFacts
   while(n<0) {
-  exclamationAddedFacts.push(`${facts[i]}!!!`)
+  exclamationAddedFacts.push(`${facts[n]}!!!`)
   n--;
   }
   return exclamationAddedFacts;
