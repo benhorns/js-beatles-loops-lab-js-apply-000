@@ -11,7 +11,7 @@ return band;
 function johnLennonFacts (facts) {
 let n = facts.length
 let exclamationAddedFacts
-  while(n<0) {
+  while(n>0) {
   exclamationAddedFacts.push(`${facts[n]}!!!`)
   n--;
   }
