@@ -5,5 +5,5 @@ let instrumentsp = [];
   for(let i = 0; i < length; i++) {
   instrumentsp.push(`${muscians[i]} plays ${instrumentsp[i]}`);
   }
-  return instrumentsp;
+return instrumentsp;
 }
