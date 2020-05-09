@@ -9,7 +9,7 @@ return band;
 }
 
 function johnLennonFacts (facts) {
-let n = facts.length
+let n = 0
 let exclamationAddedFacts = [];
   while(n>0) {
   exclamationAddedFacts.push(`${facts[n]}!!!`)
