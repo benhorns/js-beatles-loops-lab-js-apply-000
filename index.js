@@ -18,4 +18,6 @@ let exclamationAddedFacts = [];
   return exclamationAddedFacts;
 }
 
-function iLoveTheBeatles (n) {}
+function iLoveTheBeatles (n) {
+  let arr = [];
+}
